@@ -1,0 +1,16 @@
+*{
+    margin: 5px;
+}
+
+header{
+    background-color: red;
+}
+
+main{
+    margin: 10px;
+}
+
+img{
+    width: 200px;
+    height: 500px;
+}
